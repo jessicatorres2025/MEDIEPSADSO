@@ -1,2 +1,2 @@
-# MEDIEPSADSO
-SOFTWARE DE CITAS
+# AdsoMediEps
+Proyecto de gestión de citas médicas - PHP &amp; MySQL
